@@ -6,7 +6,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" target="blank"><img align="center" src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/linked-in%20icon.svg" alt="https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" target="blank"><img align="center" src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/linked-in%20icon.svg" alt="https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" height="30" width="40" /></a>
 </p>
 
 
