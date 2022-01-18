@@ -1,8 +1,8 @@
 <h3 align="center">Hei  <img src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/Hi.gif" width="30px">, I'm Hrishikesh!</h3>
 
 - 🔭 I’m an ENTC Engineer,
-- 🌱 I’m currently learning Full Stack Web Development,
-- 👯 I’m looking to collaborate on Front-end web development projects
+- 🌱 currently learning Full Stack Web Development,
+- 👯 looking to collaborate on Front-end web development projects
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
