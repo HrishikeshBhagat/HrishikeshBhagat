@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hei  <img src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/Hi.gif" width="30px">, I'm Hrishikesh!
+- 🔭 I’m an ENTC Engineer,
+- 🌱 I’m currently learning Full Stack Web Development,
+- 👯 I’m looking to collaborate on Front-end web development projects
+- 📫 How to reach me: [Linkedin: @HrishikeshBhagat](https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b)
+
 
 <!--
 **HrishikeshBhagat/HrishikeshBhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
