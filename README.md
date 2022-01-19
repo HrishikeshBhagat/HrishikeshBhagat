@@ -2,8 +2,7 @@
 
 - 🔭 I’m an ENTC Engineer,
 - 🌱 currently learning Full Stack Web Development,
-- 👯 looking to collaborate on Front-end web development projects
-
+- 👨‍💻 looking to collaborate on Front-end web development projects,
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" target="blank"><img align="center" src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/linked-in%20icon.svg" alt="https://www.linkedin.com/in/hrishikesh-bhagat-511a9015b" height="30" width="40" /></a>
