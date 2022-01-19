@@ -1,4 +1,4 @@
-<h3 align="center">Hei  <img src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/Hi.gif" width="30px">, I'm Hrishikesh!</h3>
+<h2 align="center">Hei  <img src="https://github.com/HrishikeshBhagat/grootarmy.github.io/blob/main/assets/Hi.gif" width="30px">, I'm Hrishikesh!</h2>
 
 - 🔭 I’m an ENTC Engineer,
 - 🌱 currently learning Full Stack Web Development,
